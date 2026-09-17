@@ -102,7 +102,7 @@ A comprehensive ML/AI toolkit that brings together classification, regression, c
 
 - 🌐 **Portfolio:** [mohittt-vermaa.github.io](https://mohittt-vermaa.github.io/)
 - 💼 **LinkedIn:** [mohit-verma-a05570437](https://www.linkedin.com/in/mohit-verma-a05570437)
-- 📸 **Instagram:** [@mohittt_vermaa](https://www.instagram.com/mohittt_vermaa/)
+- 📸 **Instagram:** [@mohittt_vermaa0](https://https://www.instagram.com/mohittt_vermaa0//)
 - 📝 **Blog:** [mohittt-vermaa.blogspot.com](https://mohittt-vermaa.blogspot.com/)
 - ✍️ **Hashnode:** [@mohit-](https://hashnode.com/@mohit-)
 - 📧 **Email:** mohitkumar190031@gmail.com
