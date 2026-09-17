@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>A 15-year-old developer & AI/ML enthusiast from India 🇮🇳</i>
+  <i>A developer & AI/ML enthusiast from India 🇮🇳</i>
 </p>
 
 <p align="center">
