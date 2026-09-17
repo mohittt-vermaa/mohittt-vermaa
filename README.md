@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/mohit-verma-a05570437">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mohittt_vermaa/">
-    <img src="https://img.shields.io/badge/Instagram-@mohittt__vermaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/mohittt_vermaa0/">
+    <img src="https://img.shields.io/badge/Instagram-@mohittt__vermaa0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://mohittt-vermaa.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-Follow-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
