@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/mohit-verma-a05570437">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mohittt_vermaa0/">
-    <img src="https://img.shields.io/badge/Instagram-@mohittt__vermaa0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <a href="https://www.instagram.com/moverinn">
+        <img src="https://img.shields.io/badge/Instagram-@moverinn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://mohittt-vermaa.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-Follow-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
@@ -102,10 +102,16 @@ A comprehensive ML/AI toolkit that brings together classification, regression, c
 
 - 🌐 **Portfolio:** [mohittt-vermaa.github.io](https://mohittt-vermaa.github.io/)
 - 💼 **LinkedIn:** [mohit-verma-a05570437](https://www.linkedin.com/in/mohit-verma-a05570437)
-- 📸 **Instagram:** [@mohittt_vermaa0](https://https://www.instagram.com/mohittt_vermaa0//)
+- 📸 **Instagram:** [@moverinn](https://www.instagram.com/moverinn)
 - 📝 **Blog:** [mohittt-vermaa.blogspot.com](https://mohittt-vermaa.blogspot.com/)
 - ✍️ **Hashnode:** [@mohit-](https://hashnode.com/@mohit-)
 - 📧 **Email:** mohitkumar190031@gmail.com
+- 🎥 YouTube: https://www.youtube.com/channel/UCZul2IDhvrks9CyFtb-8oyg
+- 👤 About.me: https://about.me/mohit-verma
+- ✍️ dev.to: https://dev.to/mohitttvermaa
+- 📖 Medium: https://medium.com/@mkvnational
+- 📚 Book 1 — AI Is the Final Boss of 2077: https://store.pothi.com/book/mohit-verma-ai-final-boss-2077/
+- 📚 Book 2 — My Journey From Beginner Coding to Building MLBox: https://store.pothi.com/book/mohit-verma-ai-final-boss-2077-2/
 
 ---
 
